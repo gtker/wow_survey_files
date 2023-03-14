@@ -1,0 +1,430 @@
+!This program cannot be run in DOS mode.
+MRich
+B/uC
+.text
+`.rdata
+@.data
+.reloc
+|$$f
+L$(Q
+D$(PVh
+L$0Q
+D$(P
+T$(Rj
+SUne
+D$8P
+_^]3
+FGEB
+5;T$
+D$x3
+D$Vf
+T$tj"j1
+T$`r
+L$x_^]
+t3h 
+T$8Rj
+thPU
+L$4Q
+T$4+
+D$0P
+9|$@
+L$ Q
+D$ Pj
+\u)j
+D$\j
+D$,@
+L$(h
+L$X^
+j0Pf
+L$,Q
+D$$P
+j"j 
+L$$+
+T$(R
+T$$Q
+D$P3
+tWR+
+t#;D$
+^_[3
+u)SV
+HHt`HHt\
+RPWS
+WVj0
+Y_^[
+VC20XC00U
+SVWU
+tYVU
+t?xH
+]_^[
+eYt*F
+SVWt'
+80t.
+_^[]
+UVWt(
+D$$VP3
+Wj0U
+t	WS
+u]!]
+?]ur
+oG<-uK
+]t@G:
+YYj0[
+0<=t
+>=Yt
+t7VP
+Y]_^[
+8"u&
+QQSVW3
+uiS3
+SUVW
+tyf9
+SSS+
+@PVSS
+t#SSUP
+t$$VSS
+_^][YY
+<Yv"
+SVWse
+R95D
+v	N+D$
+VWumh
+SVWUj
+]_^[
+t.;t$$t(
+s"95
+VWj Y
+SVWj ^
+PPPP
+PPPP
+@PWV
+_^[]
+_^]t
+~*9E
+PVj	
+LSVWj
+Wj@3
+ t6S
+    
+uiSj
+@_^[
+j?^;
+VWsU
+VWsr
+Yu+Vj
+YF;5
+~'WP
+SVW3
+u8SS3
+9] u
+E SS
+t-9]
+t!SS9]
+9] u
++tzHHtj
+	j	XO
+u	9}
+wHVSU
+FVSj
+^_][
+6PWS
+t WW
+WWWWVSW
+tCVj
+t2WWVPVSW
+t@VW
+SUVW
+_^][
+B/uC
+ERR: Type %d
+ERR: Time Zone Bias %ld
+ERR: RegSetValueEx failed (Survey)
+ERR: RegOpenKeyEx failed (Survey)
+ERR: XmlDescription() failed
+ERR: \Optimize\SysDesc is 0
+ERR: RegQueryValueEx returned an unexpected type %d
+ERR: RegQueryValueEx failed (SysDesc)
+SysDesc
+ERR: RegOpenKeyEx failed (Optimize)
+SOFTWARE\Battle.net\Optimize
+ERR: Time Zone ID %d
+ERR: System langId %04x
+ERR: survey %d is not new
+Survey
+ERR: Game Locale %08x %c%c%c%c
+ERR: Length %d
+SOFTWARE\Blizzard Entertainment\%s
+World of Warcraft
+Warcraft III
+Diablo II
+Starcraft
+System Description 2.0.x
+GenuineTMx86
+CentaurHauls
+CyrixInstead
+AuthenticAMD
+GenuineIntel
+>CallNtPowerInformation
+powrprof.dll
+SeSecurityPrivilege
+SOFTWARE\Wine
+wine_get_unix_file_name
+kernel32
+%d.%d.%d.%d
+Version
+SOFTWARE\Microsoft\DirectX
+\\.\CdRom0
+</systemdescription>
+<audio id="%d" module="%s" desciption="%s"/>
+<video id="%d" vendor="0x%04x" device="0x%04x" desciption="%s"/>
+<media id="%d" type="%d"/>
+<os platform="%d" major="%d" minor="%d" additional="%s" build="%d" privilege="%d" filesystem="%s" wine="%d"/>
+<directx version="%d.%d.%d"/>
+<ram physical="%d"/>
+maxspeed="%d" currspeed="%d"/>
+" brand="%s" 
+<cpu num="%d" vendor="%s" version="0x%08x" versionex="0x%08x" features="0x%08x" featuresex="0x%08x" cores="0x%08x" cache="
+<systemdescription platform="%s" arch="%s" version="2.0.12" survey="%u">
+<game name="%s" locale="%s"/>
+Win32
+unknown
+ (8PX
+700WP
+`h````
+ppxxxx
+(null)
+Microsoft Visual C++ Runtime Library
+Program: 
+<program name unknown>
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+e+000
+GAIsProcessorFeaturePresent
+KERNEL32
+CorExitProcess
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6029
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Runtime Error!
+Program: 
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+RSDS
+c:\Src\Support\SurveyDLL\Release\SysDesc.pdb
+DirectDrawCreate
+DirectDrawEnumerateA
+DDRAW.dll
+DSOUND.dll
+GetTimeZoneInformation
+GetSystemDefaultLangID
+GetSystemInfo
+FreeLibrary
+Sleep
+GetTickCount
+QueryPerformanceCounter
+SetThreadPriority
+GetThreadPriority
+GetCurrentThread
+QueryPerformanceFrequency
+GetProcAddress
+LoadLibraryA
+GlobalMemoryStatus
+GetVolumeInformationA
+GetModuleFileNameA
+CloseHandle
+GetLastError
+GetCurrentProcess
+GetModuleHandleA
+GetVersionExA
+DeviceIoControl
+CreateFileA
+ExitProcess
+GetCommandLineA
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+HeapDestroy
+HeapCreate
+VirtualFree
+HeapFree
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+UnhandledExceptionFilter
+WriteFile
+SetFilePointer
+HeapAlloc
+RtlUnwind
+InterlockedExchange
+VirtualQuery
+MultiByteToWideChar
+VirtualProtect
+VirtualAlloc
+GetACP
+GetOEMCP
+GetCPInfo
+HeapReAlloc
+SetStdHandle
+GetStringTypeA
+GetStringTypeW
+LCMapStringA
+LCMapStringW
+ReadFile
+HeapSize
+FlushFileBuffers
+GetLocaleInfoA
+KERNEL32.dll
+RegSetValueExA
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+ADVAPI32.dll
+B/uC
+SYSDESC.dll
+ExtraWork
+SUneBGneRKokRFrfEDedNChzWThz0123456789abcdef
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+0/0H0U0_0i0}0
+0+1`1
+2$2>2Q2a2{2
+3.3>3N3]3q3
+4/4M4T4^4q4~4
+4$5(5,505
+777R7O9\9k9r9
+:&:A:Y:h:w:
+< <D<X<
+<$=A=U=s=
+=;>7?
+#0=0
+3	3&323H3T3j3t3
+5N6T6Z6
+7 7$7)7>709=9E9N9`9n9{9
+:5:L:
+<4=C=[=
+0K1f1w1
+5 5(595C5K5{5
+606<6f6}6
+808|8
+8l9x9}9
+;.;C;Y;
+</<F<{<
+B0V0
+8%:l;r;{;
+<!<.<3<;<D<X<a<f<m<r<
+=$=?=q=x=
+>?>M>~>
+?B?M?U?g?r?
+1 1w1~1
+2@2L2V2^2h2n2v2
+263L3
+3$4*4<4J4
+5)5=5Q5[5f5x5
+6,686k6
+7!707B7_7u7
+9/9J9b9
+:0:A:[:l:w:
+;&;,;4;B;Z;l;r;
+="=)=1=6=S=c={=
+0J1_1w1
+262M2T2Z2q2x2
+3=3F3p3
+477M7i7
+80878?8D8H8L8u8
+8&9,9094989
+9#:U:\:`:d:h:l:p:t:x:
+:U<n<
+0?0Z0i0
+292L2R2W2c2o2
+3 3&3
+4)494S4_4q4
+5)5<5K5Q5
+6!666<6D6K6V6|6
+6(969<9V9[9j9s9
+:$:*:?:F:L:Z:`:e:k:y:
+2$2(2,2U2{2
+454<4@4D4H4L4P4T4X4
+5#5/545G5S5b5t5
+616f6t6
+757<7`7m7y7'8.8t8
+8#9G9
+:K:j:w:
+C0Z0
+1*1X1
+2	3!32464:4>4B4F4J4N4R4V4Z4^4i4
+5!525O5
+7@8J8
+:':B:l:r:
+;,;G;k;u;
+<8=j?p?
+0P0Z0
+0B1X1a1
+d7h7t7x7
+9D:H:l:p:|:
+4 4d4h4
+0\1d1l1t1|1
+1p4t4
